@@ -1,0 +1,70 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+ul{
+	list-style-type: none
+}
+.all
+{
+	display: grid;
+	grid-template-columns: 1fr;
+	
+}
+.first
+{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 25px;
+	margin: 5px;
+}
+.bgcolor
+{
+	background-color: gray;
+}
+input{
+	margin: 10px;
+}
+.testStyle
+{
+	
+}
+h1
+{
+	font-size: 60px;
+	text-align: center;
+}
+.myDivStyle
+{
+	border: 2px solid #000000;
+	width: 80%;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: .5fr 2fr .5fr .5fr;
+	text-align: center;
+	padding-top: 1%;
+	    height: 115px;
+}
+ul li
+{
+	padding: 10px;
+}
+.editStyle
+{
+	background-color: brown;
+	font-weight: 700;
+	color: #ffffff;
+	border: none;
+	width: 150px;
+	height: 45px;
+}
+.deletStyle
+{
+	background-color: brown;
+	font-weight: 700;
+	color: #ffffff;
+	border: none;
+	width: 150px;
+	height: 45px;
+}

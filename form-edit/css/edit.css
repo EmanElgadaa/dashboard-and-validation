@@ -1,0 +1,42 @@
+body
+{
+	margin: 0;
+	height: 0;
+}
+h1
+{
+	font-size: 50px;
+	text-align: center;
+	font-family: sans-serif monospace;
+	padding-top: 2%;
+}
+.section-bg
+{
+	background-image: url(../blue-2375119_1920.jpg);
+	background-repeat: no-repeat;
+	height: 625px;
+}
+.edtitle ,.edbody
+{
+	
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 1%;
+}
+.btn
+{
+	
+	text-align: center;
+	
+}
+.dash ,.blog
+{
+	width: 140px;
+	height: 45px;
+	border: 0;
+	border-radius: 35px;
+	background-color: dodgerblue;
+	font-size: 20px;
+}
